@@ -138,3 +138,7 @@ __pycache__
 
 .README.md.swp
 
+remotes/origin/HEAD
+remotes/origin/feature-1
+remotes/origin/main
+
